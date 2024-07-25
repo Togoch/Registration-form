@@ -1,0 +1,23 @@
+.parent{
+    background-color: lightpink;
+    width:fit-content;
+    margin: 10px;
+    height: 30%;
+    position: relative;
+}
+.child-one{
+    background-color:blue;
+    margin-top: 10px;
+    
+    
+    
+}
+.child-two{
+    background-color: aqua;
+    margin-top: 10px;
+
+}
+.child-three{
+    background-color: blueviolet;
+    margin-top: 10px;
+}
