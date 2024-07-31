@@ -1,6 +1,6 @@
 .parent{
     background-color: lightpink;
-    width:fit-content;
+    width: auto;
     margin: 10px;
     height: 30%;
     position: relative;
@@ -15,9 +15,14 @@
 .child-two{
     background-color: aqua;
     margin-top: 10px;
+    margin-bottom: 10px;
 
 }
 .child-three{
     background-color: blueviolet;
     margin-top: 10px;
+}
+.child-four{
+   background-color: brown; 
+   margin-bottom: 20px;
 }
